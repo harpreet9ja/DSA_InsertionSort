@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//Selection sort 
+//Selection sort //
 
 int[] array = { 3, 4, 6, 7, 9, 10 };
 
